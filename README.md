@@ -1,2 +1,2 @@
-# mill-app
-coding ninja mill appp
+# meal-app
+coding ninja meal appp
